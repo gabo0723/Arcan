@@ -1,0 +1,6 @@
+{
+  "name": "Arcan Code",
+  "description": "Sitio web corporativo y tecnológico premium para la agencia de inteligencia artificial, desarrollo de software y marketing visual Arcan Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
